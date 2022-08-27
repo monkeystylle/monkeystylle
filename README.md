@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 👋 I’m joseph, Junior TS React Frontend Developer
-- 👀 I love crafting Layouts, Pages, and Web Components
+- 👀 I love crafting ayouts, pages and components for Web
 - 🌱 I’m currently learning Next.js
 - ⚡ styled-components fits like a glove in React IMHO
 
