@@ -3,6 +3,7 @@
 - 👋 I’m joseph, Junior TS React Frontend Developer
 - 👀 I love crafting Layouts, Pages, and Web Components
 - 🌱 I’m currently learning Next.js
+- ⚡ styled-components fits like a glove in Reach IMHO
 
 ### Technologies & Tools:
 
