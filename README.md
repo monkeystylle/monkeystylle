@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Next.js
 - ⚡ styled-components fits like a glove in React IMHO
 
-### Technologies & Tools:
+### Technologies & Tools i use:
 
 <img align="left" alt="styled components" width="60px" src="/logo/javascript.png" />
 <img align="left" alt="styled components" width="60px" src="/logo/react.svg" />
