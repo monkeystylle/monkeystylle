@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 👋 I’m joseph, Junior TS React Frontend Developer
+- 👋 I’m joseph, a React Typescript NextJs Frontend Developer
 - 👀 I love crafting layouts, pages and components for Web
-- 🌱 I’m currently learning Next.js
+- 🌱 I love storybook and Styled Components
 
 ### Technologies & Tools i use:
 
