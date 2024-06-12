@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 I’m joseph, a React Typescript NextJs Frontend Developer
+- 👋 I’m joseph, a React Developer
 - 👀 I love crafting layouts, pages and components for Web
 - 🌱 I love storybook and Styled Components
 
