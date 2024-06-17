@@ -11,3 +11,5 @@
 <img align="left" alt="styled components" width="36px" src="/logo/typescript.jpg" />
 <img align="left" alt="styled components" width="40px" src="/logo/next1.png" />
 <img align="left" alt="styled components" width="36px" src="/logo/styled-components.png" />
+<img align="left" alt="styled components" width="36px" src="/logo/tailwind.png" />
+<img align="left" alt="styled components" width="36px" src="/logo/storybook.png" />
