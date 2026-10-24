@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👋 I’m joseph, a React Developer
+- 👋 I’m joseph, a Web Frontend Developer
 - 👀 I love crafting layouts, pages and components for Web
 
 
